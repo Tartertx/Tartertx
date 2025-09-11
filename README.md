@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Timothy!
 
-<!--
-**Tartertx/Tartertx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate undergraduate student performing mathematical research in computational commutative algebra, algebraic geometry, and algebraic cryptography. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
 
-Here are some ideas to get you started:
+I also run the Madison Institute for Mathematical Finance (MIMF) at James Madison University which centers around teaching undergraduate students the mathematical tools needed to break into quantitative finance, then helping them produce quantitative research products in the form of:
+ - Algorithmic Mean-Reversion Trading Strategies
+ - Algorithmic Arbitrage Extraction
+ - High-Frequency Trading Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My participation in MIMF falls into the following categories:
+ - Managing the organizational structure
+ - Approving and placing trades (daily) proposed by the quantitative trading team
+ - Setting priorities and managing the expectations for the research teams
+ - Lecturing nightly, typing lecture notes & homeworks, and grading work for the incoming class of Junior Scholars
+ - Running the computational algebra research group, researching arbitrage extraction strategies and HFT architecture development.
+
+In addition to my work with MIMF, I do research in JMU's Math department:
+ - Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the Finite Automorphic Group with Dr. Rebecca Field
+ - Applications of Grobner Bases and Affine Schemes to Y-Square Reducible Graphs with Dr. Steve Lucas and Dr. Laura Taalman
+ - Faster Attacks on LFSR Sequences with the computational algebra research group @ MIMF.
+
+Here are the links to my preprints and publications:
+ - A Generalized Benford Framework for Threat Identification in Counter-Intelligence
+   - https://arxiv.org/abs/2508.01904
+ - Modeling the Impact of NATO Policy Actions on Taliban Disinformation Campaigns with Lotka-Volterra Models
+   - https://arxiv.org/abs/2501.10460
+ - The Algebraic Geometry of Sine and Cosine Roses (& Some Origami)
+   - https://github.com/Tartertx/Pre-Prints-and-Publications/blob/main/The_Algebraic_Geometry_of_Sine_and_Cosine_Roses_and_Origami.pdf
+ - A Faster Attack on LFSR Sequences
+   - Uploading to ArXiV soon.
