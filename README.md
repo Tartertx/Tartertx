@@ -33,3 +33,13 @@ Previous places I've worked / interned:
  - Capital Markets & Index Solutions Intern @ Annexus (quant research, backtesting)
  - Applied Mathematician @ JMU Football (econometrics)
  - Applied Mathematician @ Hacking for Defense (operations research for White Sands Missile Range)
+
+Talks I've Given:
+ - Invited Speaker, JMU Math Department Colloquium (May 2025)
+ - Invited Speaker, Graduate Society for International Studies @ ODU (March 2025)
+ - AMS Contributed Papers in Probability Theory & Stochastic Processes, Joint Math Meetings (January 2025)
+ - Speaker, Shenandoah Undergraduate Mathematics Symposium (October 2024)
+
+Classes I've Taught / TA'd:
+ - Math 237 (Multivariable Calculus @ JMU), last TA'd Fall 2024 
+ - Math 410 (Real Analysis @ JMU), last TA'd Spring 2025
