@@ -30,8 +30,8 @@ Here are the links to my preprints and publications:
    - Uploading to ArXiV soon.
   
 Previous places I've worked / interned:
- - Capital Markets & Index Solutions Intern @ Annexus (quant research, backtesting)
- - Applied Mathematician @ JMU Football (econometrics)
+ - Capital Markets & Index Solutions Intern @ Annexus (quant research & backtesting)
+ - Applied Mathematician @ JMU Football (econometrics for scholarship selection)
  - Applied Mathematician @ Hacking for Defense (operations research for White Sands Missile Range)
 
 Talks I've Given:
