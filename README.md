@@ -21,9 +21,9 @@ In addition to my work with MIMF, I do research in JMU's Math department:
 
 Here are the links to my preprints and publications:
  - A Generalized Benford Framework for Threat Identification in Counter-Intelligence
-   - https://arxiv.org/abs/2508.01904
- - Modeling the Impact of NATO Policy Actions on Taliban Disinformation Campaigns with Lotka-Volterra Models
    - https://arxiv.org/abs/2501.10460
+ - Modeling the Impact of NATO Policy Actions on Taliban Disinformation Campaigns with Lotka-Volterra Models
+   - https://arxiv.org/abs/2508.01904
  - The Algebraic Geometry of Sine and Cosine Roses (& Some Origami)
    - https://github.com/Tartertx/Pre-Prints-and-Publications/blob/main/The_Algebraic_Geometry_of_Sine_and_Cosine_Roses_and_Origami.pdf
  - A Faster Attack on LFSR Sequences
