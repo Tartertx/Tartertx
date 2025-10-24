@@ -35,6 +35,7 @@ Previous places I've worked / interned:
  - Applied Mathematician @ Hacking for Defense (operations research for White Sands Missile Range)
 
 Talks I've Given:
+ - Invited Speaker, Gannon Applied Intelligence Conference (October 2025, in Absentia)
  - Invited Speaker, JMU Math Department Colloquium (May 2025)
  - Invited Speaker, Graduate Society for International Studies @ ODU (March 2025)
  - AMS Contributed Papers in Probability Theory & Stochastic Processes, Joint Math Meetings (January 2025)
