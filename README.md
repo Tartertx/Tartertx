@@ -2,7 +2,7 @@
 
 I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in computational commutative algebra, algebraic geometry, and algebraic cryptography. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
 
-One particular project that I am passionate about is the AG seminar which I run at James Madison University. We aren't departmentally affiliated at the moment, but we hope to be as we become well-established. If you want to view the lectures, syllabus, or notes from this seminar, you can check out our repository on my page or our youtube channel (link TBD).
+One particular project that I am excited about is the AG seminar which I run at James Madison University. We aren't departmentally affiliated at the moment, but we hope to be as we become well-established. If you want to view the lectures, syllabus, or notes from this seminar, you can check out our repository on my page or our youtube channel (link TBD).
 
 I also run the Madison Institute for Mathematical Finance (MIMF) at James Madison University which centers around teaching undergraduate students the mathematical tools needed to break into quantitative finance, then helping them produce quantitative research products in the form of:
  - Algorithmic Mean-Reversion Trading Strategies
