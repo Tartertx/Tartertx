@@ -18,7 +18,6 @@ My participation in MIMF falls into the following categories:
 
 In addition to my work with MIMF, I do research in JMU's Math department:
  - Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the Finite Automorphic Group with Dr. Rebecca Field
- - Applications of Grobner Bases and Affine Schemes to Y-Square Reducible Graphs with Dr. Steve Lucas and Dr. Laura Taalman
  - Faster Attacks on LFSR Sequences with the computational algebra research group @ MIMF.
 
 Here are the links to my preprints and publications:
