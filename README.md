@@ -2,7 +2,7 @@
 
 I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in computational commutative algebra, algebraic geometry, and algebraic cryptography. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
 
-My main project at the moment is directing two different algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'.
+My main project at the moment is directing two different algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'. The other seminar is private, but we have been doing a preliminary series in Abstract Algebra following Artin's 'Algebra' book. 
 
 https://www.youtube.com/@TimothyTarter
 
