@@ -2,7 +2,11 @@
 
 I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in computational commutative algebra, algebraic geometry, and algebraic cryptography. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
 
-I run the Madison Institute for Mathematical Finance (MIMF) at James Madison University which centers around teaching undergraduate students the mathematical tools needed to break into quantitative finance, then helping them produce quantitative research products in the form of:
+My main project at the moment is directing a few different algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'.
+
+https://www.youtube.com/@TimothyTarter
+
+I also run the Madison Institute for Mathematical Finance (MIMF) at James Madison University which centers around teaching undergraduate students the mathematical tools needed to break into quantitative finance, then helping them produce quantitative research products in the form of:
  - Algorithmic Mean-Reversion Trading Strategies
  - Algorithmic Arbitrage Extraction
  - High-Frequency Trading Architecture.
