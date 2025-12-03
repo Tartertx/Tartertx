@@ -19,8 +19,7 @@ My participation in MIMF falls into the following categories:
  - Running the computational algebra research group, researching arbitrage extraction strategies and HFT architecture development.
 
 In addition to my work with MIMF, I do research in JMU's Math department:
- - Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the Finite Automorphic Group with Dr. Rebecca Field
- - Faster Attacks on LFSR Sequences with the computational algebra research group @ MIMF.
+ - Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the Finite Automorphic Group with Dr. Rebecca Field.
 
 Here are the links to my preprints and publications:
  - A Generalized Benford Framework for Threat Identification in Counter-Intelligence
