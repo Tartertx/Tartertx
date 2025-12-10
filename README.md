@@ -30,7 +30,9 @@ Here are the links to my preprints and publications:
    - https://github.com/Tartertx/Pre-Prints-and-Publications/blob/main/The_Algebraic_Geometry_of_Sine_and_Cosine_Roses_and_Origami.pdf
  - A Faster Attack on LFSR Sequences
    - Uploading to ArXiV soon.
-  
+ - Continuity in the Zariski Topology as a Bridge From Topological Continuity to Sheaf Glueability in Affine Algebraic Geometry
+   - https://github.com/Tartertx/Math-435-Topology/blob/main/ZariskiContinuityPaper.pdf
+
 Previous places I've worked / interned:
  - Capital Markets & Index Solutions Intern @ Annexus (quant research & backtesting)
  - Applied Mathematician @ JMU Football (econometrics for scholarship selection)
