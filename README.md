@@ -3,9 +3,9 @@
 I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in combinatorial geometry. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
 
 My main project at the moment is research within JMU's department of mathematics, via,
- - the Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the Finite Automorphic Group with Dr. Rebecca Field.
+ - the Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the set of fixed point free involutions with Dr. Rebecca Field.
 
-My ancillary project at the moment is running two separate algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'. The other seminar is private, but we have been doing a preliminary series in Abstract Algebra following Artin's 'Algebra' book. 
+My backup project at the moment is organizing two separate algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'. The other seminar is private, but we have been doing a preliminary series in Abstract Algebra following Artin's 'Algebra' book. 
 
 https://www.youtube.com/@TimothyTarter
 
@@ -33,12 +33,13 @@ Here are the links to my projects, preprints, and publications:
  - Continuity in the Zariski Topology as a Bridge From Topological Continuity to Sheaf Glueability in Affine Algebraic Geometry
    - https://github.com/Tartertx/Math-435-Topology/blob/main/ZariskiContinuityPaper.pdf
 
-Previous places I've worked / interned:
+Here are the previous places I've worked / interned:
  - Capital Markets & Index Solutions Intern @ Annexus (quant research & backtesting)
  - Applied Mathematician @ JMU Football (econometrics for scholarship selection)
  - Applied Mathematician @ Hacking for Defense (operations research for White Sands Missile Range)
 
 Talks I've Given:
+ - Speaker, Joint Math Meetings (January 2026)
  - Invited Speaker, Gannon Applied Intelligence Conference (October 2025, in Absentia)
  - Invited Speaker, JMU Math Department Colloquium (May 2025)
  - Invited Speaker, Graduate Society for International Studies @ ODU (March 2025)
