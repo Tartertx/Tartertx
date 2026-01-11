@@ -2,10 +2,9 @@
 
 I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in combinatorial geometry. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
 
-My main project at the moment is research within JMU's department of mathematics, via,
- - the Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the set of fixed point free involutions with Dr. Rebecca Field.
+My main project at the moment is research within JMU's department of mathematics, via the Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the set of fixed point free involutions with Dr. Rebecca Field.
 
-My backup project at the moment is organizing two separate algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'. The other seminar is private, but we have been doing a preliminary series in Abstract Algebra following Artin's 'Algebra' book. 
+My general backup project is organizing two separate algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'. The other seminar is private, but we have been doing a preliminary series in Abstract Algebra following Artin's 'Algebra' book. 
 
 https://www.youtube.com/@TimothyTarter
 
