@@ -15,10 +15,7 @@ I also run the Madison Institute for Mathematical Finance (MIMF) at James Madiso
  - High-Frequency Trading Architecture.
 
 My participation in MIMF falls into the following categories:
- - Managing the organizational structure
- - Approving and placing trades (daily) proposed by the quantitative trading team
  - Setting priorities and managing the expectations for the research teams
- - Lecturing nightly, typing lecture notes & homeworks, and grading work for the incoming class of Junior Scholars
  - Running the computational algebra research group, researching arbitrage extraction strategies and HFT architecture development.
 
 Here are the links to my projects, preprints, and publications:
