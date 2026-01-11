@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Timothy!
 
-I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in computational commutative algebra, algebraic geometry, and algebraic cryptography. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
+I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in combinatorial geometry. My repositories range from research projects to HackerRank & Leetcode problems to lecture notes from classes I've taken to lecture notes for classes which I teach / TA! 
 
-My main project at the moment is directing two different algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'. The other seminar is private, but we have been doing a preliminary series in Abstract Algebra following Artin's 'Algebra' book. 
+My main project at the moment is research within JMU's department of mathematics, via,
+ - the Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the Finite Automorphic Group with Dr. Rebecca Field.
+
+My ancillary project at the moment is running two separate algebraic geometry seminars. One of them is a public seminar, and so I've been posting the lecture videos on a Youtube channel, linked below. We are following Chapter 1 of Hartshorne's 'Algebraic Geometry' into Chapters 1-12 of Vakil's 'The Rising Sea'. The other seminar is private, but we have been doing a preliminary series in Abstract Algebra following Artin's 'Algebra' book. 
 
 https://www.youtube.com/@TimothyTarter
 
@@ -18,10 +21,7 @@ My participation in MIMF falls into the following categories:
  - Lecturing nightly, typing lecture notes & homeworks, and grading work for the incoming class of Junior Scholars
  - Running the computational algebra research group, researching arbitrage extraction strategies and HFT architecture development.
 
-In addition to my work with MIMF, I do research in JMU's Math department:
- - Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the Finite Automorphic Group with Dr. Rebecca Field.
-
-Here are the links to my preprints and publications:
+Here are the links to my projects, preprints, and publications:
  - A Generalized Benford Framework for Threat Identification in Counter-Intelligence
    - https://arxiv.org/abs/2501.10460
  - Modeling the Impact of NATO Policy Actions on Taliban Disinformation Campaigns with Lotka-Volterra Models
