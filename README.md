@@ -42,6 +42,7 @@ Talks I've Given:
  - Speaker, Shenandoah Undergraduate Mathematics Symposium (October 2024)
 
 Classes I've Taught / TA'd:
+ - Seminar in Algebraic Geometry @ JMU, ongoing teaching project
  - Math 300 (Linear Algebra @ JMU), last TA'd Spring 2026
  - Math 430 (Abstract Algebra 1 @ JMU), last TA'd Spring 2026
  - Math 237 (Multivariable Calculus @ JMU), last TA'd Fall 2024 
