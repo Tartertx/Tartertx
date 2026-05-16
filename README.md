@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timothy!
 
-I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in algebraic geometry, specifically working on topics Chow and equivariant cohomology theory regarding the intersections of algebraic curves. Additionally, I am participating in the 2026 summer REU at JMU on representation varieties. Over the past few years, my work has been split across pure and applied math, however, I have happily settled in pure mathematics at this point.
+I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in algebraic geometry, specifically working on topics in Chow and equivariant cohomology theory regarding the intersections of algebraic curves. Additionally, I am participating in the 2026 summer REU at JMU on representation varieties. Over the past few years, my work has been split across pure and applied math, however, I have happily settled in pure mathematics at this point.
 
 My main projects / grants at the moment are:
  - The summer REU ($3000 via the Elizabeth McConnell Bliss Endowment) at JMU researching representation varieties with Dr. David Duncan.
