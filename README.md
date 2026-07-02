@@ -3,7 +3,7 @@
 I'm a passionate undergraduate student at James Madison University (graduating fall of 2026) studying and performing mathematical research in algebraic geometry, specifically working on topics in Chow and equivariant cohomology theory regarding the intersections of algebraic curves. I am especially interested in moduli problems of curves, and topics related to the Chow ring of moduli spaces of curves. Additionally, I am participating in the 2026 summer REU at JMU on character varieties and the topology of three-manifolds. Over the past few years, my work has been split across pure and applied math, however, I have happily settled in pure mathematics at this point.
 
 My main projects / grants at the moment are:
- - The summer REU ($3000 via the Elizabeth McConnell Bliss Endowment) at JMU researching representation varieties with Dr. David Duncan.
+ - The summer REU ($7800 via the Elizabeth McConnell Bliss and Droms Endowments) at JMU researching representation varieties with Dr. David Duncan.
  - The Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the set of fixed point free involutions with Dr. Rebecca Field and Ilani Axelrod-Freed at MIT.
  - Learning about + researching Poncelet-type theorems with Tyler Chamberlain at UC Berkeley.
 
