@@ -5,7 +5,6 @@ I'm a passionate undergraduate student at James Madison University (graduating f
 My main projects / grants at the moment are:
  - The summer REU ($7800 via the Elizabeth McConnell Bliss and Droms Endowments) at JMU researching representation varieties with Dr. David Duncan.
  - The Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the set of fixed point free involutions with Dr. Rebecca Field and Ilani Axelrod-Freed at MIT.
- - Learning about + researching Poncelet-type theorems with Tyler Chamberlain at UC Berkeley.
 
 My backup project is leading and organizing the JMU algebraic geometry seminar. Lectures are available at the link below:
 
