@@ -39,7 +39,7 @@ Here are the links to my projects, preprints, and publications:
  - Modeling the Impact of NATO Policy Actions on Taliban Disinformation Campaigns with Lotka-Volterra Models
    - https://arxiv.org/abs/2508.01904
  - A Faster Attack on LFSR Sequences
-   - My student, Garrett Priebracha will be uploading this to the ArXiV at some point.
+   - My student, Garrett Priebracha, will be uploading this to the ArXiV at some point.
  - Continuity in the Zariski Topology as a Bridge From Topological Continuity to Sheaf Glueability in Affine Algebraic Geometry
    - https://github.com/Tartertx/Math-435-Topology/blob/main/ZariskiContinuityPaper.pdf
 
