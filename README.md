@@ -6,7 +6,15 @@ My grants at the moment are:
  - The JMU summer REU ($7800 via the Elizabeth McConnell Bliss and Droms Endowments) at JMU researching representation varieties with Dr. David Duncan.
  - The Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the set of fixed point free involutions with Dr. Rebecca Field and Ilani Axelrod-Freed at MIT.
 
-My backup project is leading and organizing the JMU algebraic geometry seminar as well as the JMU Student Seminar, joint with Marija Grove and Elise Crowder. Lectures are available at the link below:
+My backup project is leading and organizing the JMU algebraic geometry seminar as well as the JMU Student Seminar, joint with Marija Grove and Elise Crowder. I also have led Directed Reading Programs for a varying array of underclassmen students over the past few years: 
+ - Jud Bissell, Angus Argetsinger (Fall 2026) - Algebraic Combinatorics
+ - Gunner Lyons (Fall 2026) - Abstract Algebra
+ - Garrett Priebracha (Summer, Fall 2025) - Galois Theory, Algebraic Geometry, Introduction to Schemes
+ - Kai Behrens, Keegan Muralles, Jacob Fitzmaurice, Adam Fuentes (Fall 2025) - Real Analysis, Stochastic Differential Equations
+ - Arsenii Herasymov (Summer 2025) - Galois Theory
+ - Garrett Priebracha, Jack Zettlemoyer (Spring 2025) - Linear Algebra
+
+All of my recorded lectures are available at the link below:
 
 https://www.youtube.com/@TimothyTarter
 
