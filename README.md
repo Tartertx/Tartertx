@@ -6,7 +6,7 @@ My grants at the moment are:
  - The JMU summer REU ($7800 via the Elizabeth McConnell Bliss and Droms Endowments) at JMU researching representation varieties with Dr. David Duncan.
  - The Brakke-Mason Research Grant ($1900) to research the Bruhat Order on the set of fixed point free involutions with Dr. Rebecca Field and Ilani Axelrod-Freed at MIT.
 
-My backup project is leading and organizing the JMU algebraic geometry seminar as well as the JMU Student Seminar, joint with Marija Grove and Elise Crowder. I also have led Directed Reading Programs for a varying array of underclassmen students over the past few years: 
+In addition to my core research and coursework, I lead and organize the JMU algebraic geometry seminar (independently) as well as the JMU Student Seminar, which is jointly run with Marija Grove and Elise Crowder. I also have led Directed Reading Programs for a varying array of underclassmen students over the past few years: 
  - Jud Bissell, Angus Argetsinger (Fall 2026) - Algebraic Combinatorics
  - Gunner Lyons (Fall 2026) - Abstract Algebra
  - Garrett Priebracha (Summer, Fall 2025) - Galois Theory, Algebraic Geometry, Introduction to Schemes
